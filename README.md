@@ -26,13 +26,13 @@ I'm actively involved in personal projects to further my skills and knowledge in
 
    Technologies used: Java 19, Spring Boot, MySQL Workbench, Angular (TypeScript), Bootstrap, HTML, CSS
 
-   GitHub Link: https://github.com/Arkanayan/Pharmacy-Android
+   GitHub Link: [https://github.com/Arkanayan/Pharmacy-Android](https://github.com/220296006/PharmacyApp)
 
 * **VP Bank App:** A banking application designed to provide users with a seamless and secure banking experience.
 
    Technologies used: Python, Flask, SQLAlchemy, JWT, SMTP, Tkinter
 
-   GitHub Link: https://github.com/grzegorz103/virtual-bank-system
+   GitHub Link:[ https://github.com/grzegorz103/virtual-bank-system](https://github.com/220296006/banking-app-py-master)
 
 ### Skills
 
