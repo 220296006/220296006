@@ -60,13 +60,8 @@ He/Him/His
 
 ### Fun Fact
 
-I'm an avid chess player and enjoy the strategic challenges and mental stimulation of the game.
+I'm an avid gamer and enjoy the strategic challenges and mental stimulation of gamaes.
 
-### Declaration
-
-I declare the above information true and correct.
-
-Thabiso Matsaba
 
 ---
 
