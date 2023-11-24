@@ -1,4 +1,4 @@
-## **`Hi there!, Thabiso Matsaba`** 👋
+## **`Hi there!, I'm Thabiso Matsaba`** 👋
 
 # **`Junior Software Engineer`**
 
