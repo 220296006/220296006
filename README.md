@@ -54,7 +54,7 @@ He/Him/His
 
 ### **`Fun Fact`**
 
-I'm an avid gamer and enjoy the strategic challenges and mental stimulation of gamaes.
+I'm an avid gamer and enjoy the strategic challenges and mental stimulation of games I enjoy to play.
 
 
 ---
