@@ -13,9 +13,9 @@ I'm a recent graduate of Cape Peninsula University of Technology with a National
 ### **`Experience`**
 
 My professional journey includes:
-
-* **`Software Developer Intern`** at Uvu Africa (CapaCiti Tech Career Accelarator Programme) (2023 - Present)
-* **`Vocational Work Student`** at South African Radio and Astronomy Observatory (SARAO) (2022 - 2023)
+* **`Junior Software Developer`** at Younglings Africa (ABSA) (January 2024 - Present )
+* **`Software Developer Intern`** at Uvu Africa (CapaCiti Tech Career Accelarator Programme) (July 2023 - January 2024 )
+* **`Vocational Work Student`** at South African Radio and Astronomy Observatory (SARAO) (Decemebr2022 - March 2023)
 * **`General Worker`** at Elgin Free Range Chickens (2016 - 2019)
 
 ### **`Projects`**
