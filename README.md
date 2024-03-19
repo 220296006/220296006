@@ -2,7 +2,7 @@
 
 # **`Junior Software Engineer`**
 
-**`Software Developer`** | **`Full-Stack Web Developer`** | **`Java`** | **`Spring Boot`** | **`Angular`** | **`Python`**
+**`Software Developer`** | **`Full-Stack Web Developer`** | **`Java`** | **`Spring Boot`** | **`Angular`** | **`Tpescript`**
 
 I'm a passionate software developer with a keen interest in full-stack web development. I enjoy exploring new technologies and building innovative solutions that enhance user experiences.
 
