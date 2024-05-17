@@ -26,7 +26,7 @@ I'm actively involved in personal projects to further my skills and knowledge in
 
    **`Technologies used:`** Java 19, Spring Boot, MySQL Workbench, Angular (TypeScript), Bootstrap, HTML, CSS
 
-   **`GitHub Link:`** [https://github.com/Arkanayan/Pharmacy-Android](https://github.com/220296006/PharmacyApp)
+   **`GitHub Link:`** (https://github.com/220296006/PharmacyApp)
 
 * **`VP Bank App:`** A banking application designed to provide users with a seamless and secure banking experience.
 
