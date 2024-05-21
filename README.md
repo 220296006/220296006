@@ -8,7 +8,8 @@ I'm a passionate software developer with a keen interest in full-stack web devel
 
 ### **`About Me`**
 
-I'm a recent graduate of Cape Peninsula University of Technology with a National Diploma in ICT: Applications Development. My academic background has equipped me with a solid foundation in software development principles and practices, including object-oriented programming, design patterns, and web technologies.
+I am a dedicated full stack developer with a strong foundation in software development and IT. My journey began with a Diploma in IT, and over the past 2 years, I’ve gained valuable experience in various IT-related roles. My expertise lies in Full-Stack software development, understanding the software development life cycle (SDLC), and collaborating effectively within cross-functional teams.
+
 
 ### **`Experience`**
 
