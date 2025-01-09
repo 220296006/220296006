@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=220296006" alt="220296006" /></a> </p>
 
-- 🔭 I’m currently working on [CloudQuest](https://github.com/220296006/CloudQuest.git)
+- 🔭 I’m currently working on [CloudExplorer](https://github.com/220296006/CloudExplorer.git)
 
 - 🌱 I’m currently learning **Google Professional Cloud Architect**
 
