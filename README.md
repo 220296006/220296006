@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [CloudExplorer](https://github.com/220296006/CloudExplorer.git)
 
-- 🌱 I’m currently learning **Google Professional Cloud Architect**
+- 🌱 I’m currently learning **Google Professional DevOps Engineer**
 
 - 👯 I’m looking to collaborate on **React Native**
 
